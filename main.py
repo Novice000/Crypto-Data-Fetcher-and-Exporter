@@ -5,6 +5,7 @@ from datetime import datetime
 import pandas as pd
 import argparse
 from dotenv import load_dotenv
+from pprint import pprint
 
 load_dotenv()
 
